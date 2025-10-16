@@ -1,0 +1,35 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.bg-navbar {
+  background-color: #fbf6f0;
+}
+
+.navbar a {
+  color: #2a2a2a;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #1c5a2a; /* hover color */
+}
+
+.active {
+  color: #2a2a2a !important;
+  border-bottom: 2px solid #2a2a2a;
+}
+
+.nav-link:hover {
+  border-bottom: 2px solid #2a2a2a;
+}
+
+/* Optional: headings in PT Sans for better look */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "PT Sans", sans-serif;
+}
