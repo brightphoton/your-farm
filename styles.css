@@ -24,6 +24,11 @@ body {
   border-bottom: 2px solid #2a2a2a;
 }
 
+/* slider */
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
 /* Optional: headings in PT Sans for better look */
 h1,
 h2,
